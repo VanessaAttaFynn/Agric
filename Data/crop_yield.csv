@@ -1,0 +1,21 @@
+ID,AREA(HA),REGION,CROP,PRODUCTION(MT),OWNERSHIP,YIELD(MT/HA),YIELD SCORE,CITY
+1,1099,Western,Maize,3981,Owner,3.622383985,10,Takoradi
+2,2922,Ashanti,Plantain,2101.84,Lease,0.719315537,5,Kumasi
+3,3646,Ashanti,Maize,3062.64,Lease,0.84,5,Konongo
+4,2374,Eastern,Cassava,3211,Owner,1.352569503,10,Akuapim South
+5,4323,Upper West,Groundnut,4323,Owner,1,7,Wa Municipal
+6,2135,Western,Coco Yam,6007,Lease,2.813583138,10,Wassa West
+7,2334,Upper East,Sorghum,2334,Owner,1,7,Bongo
+8,4773,Western,Maize,8556,Lease,1.792583281,10,Amenfi East
+9,6875,Volta,Cassava,6875,Owner,1,7,Nkwanta
+10,6000,Upper West,Cow Pea,3656,Lease,0.609333333,5,Lawra
+11,3469,Central,Coco Yam,3469,Owner,1,7,Cape Coast
+12,1226,Volta,Maize,1226,Owner,1,7,Keta
+13,3034,Brong Ahafo,Yam,9765,Lease,3.218523401,10,Asutifi
+14,1544,Central,Plantain,456,Lease,0.295336788,5,Mfantsiman
+15,5500,Ashanti,Rice,5500,Owner,1,7,Sekyere West
+16,4733,Upper East,Millet,1345,Lease,0.284174942,5,Builse
+17,3224,Eastern,Coco Yam,7556,Owner,2.343672457,10,Birim South
+18,7533,Eastern,Maize,3455,Lease,0.458648613,5,Birim South
+19,3289,Brong Ahafo,Rice,3289,Owner,1,7,Sene
+20,2656,Central,Plantain,2656,Lease,1,7,Gomoa

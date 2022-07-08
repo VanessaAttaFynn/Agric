@@ -1,0 +1,21 @@
+ID,NAME,GENDER,AGE,REGION,CITY,EDUCATION,EXPERIENCE,PHONE,EMAIL,MARITAL STATUS,HAS HOUSE,HAS CAR,FAMILY SIZE,OCCUPATION,INCOME,AVG MONTH,CREDIT SCORE,YIELD SCORE
+1,Ama Boakye,F,35,Western,Takoradi,JHS,3,0243333333,ama.boakye@gmail.com,Married,No,No,3,Farmer,7000,4757.75,5,10
+2,Kofi Danquah,M,42,Ashanti,Kumasi,SHS,12,0501234567,kofi.danquah@gmail.com,Married,Yes,No,5,Trader,2556,2989.92,7,5
+3,Christian Awune,M,37,Ashanti,Konongo,University,5,0203245678,christianawuni@yahoo.com,Single,No,Yes,1,Farmer,2000,2027.5,5,5
+4,Georgina Tawiah,F,54,Eastern,Akuapim South,JHS,5,0203745678,georginatawaih@gmail.com,Married,No,Yes,6,Trader,6000,3124.42,10,10
+5,Abigail Lartey,F,34,Upper West,Wa Municipal,JHS,4,0545455545,abigaillartey@gmail.com,Married,Yes,No,3,Farmer,3888,3646.75,5,7
+6,Kwame Danso,M,46,Western,Wassa West,JHS,6,0281133356,kwamedanso@yahoo.com,Single,Yes,Yes,3,Farmer,6488,6044.33,5,10
+7,Richard Abu,M,43,Upper East,Bongo,SHS,4,0274343222,richardabu@gmail.com,Married,No,No,2,Trader,4388,3526.33,7,7
+8,Nana Kwarteng,M,32,Western,Amenfi East,University,7,0243434343,nanakwarteng@gmail.com,Single,Yes,Yes,1,Farmer,6721,3335.58,10,10
+9,John Afeke,M,27,Volta,Nkwanta,JHS,3,0567755654,joonafeke@yahoo.com,Married,Yes,No,5,Trader,4680,4084.58,7,7
+10,Abdul Razak,M,40,Upper West,Lawra,SHS,5,0556776556,abdulrazak@yahoo.com,Single,Yes,Yes,3,Farmer,1645,4061.67,5,5
+11,Joyce Nkansah,F,41,Central,Cape Coast,University,8,0246766344,joycenkansah@yahoo.com,Single,No,No,1,Farmer,5142,3262,5,7
+12,Peter Afi,M,33,Volta,Keta,SHS,10,0284543421,peterafi@yahoo.com,Married,Yes,Yes,5,Farmer,4866,4269.5,10,7
+13,Akim Hafiz,M,37,Brong Ahafo,Asutifi,JHS,6,0283437111,akimhafiz@gmail.com,Married,No,No,4,Farmer,7753,2337.08,10,10
+14,Esther Addae,F,40,Central,Mfantsiman,University,8,0500002304,estheraddae@gmail.com,Married,No,No,3,Trader,5376,3698.67,7,5
+15,Nana Opoku,M,29,Ashanti,Sekyere West,SHS,3,0240002343,nanaopoku@yahoo.com,Single,Yes,Yes,1,Farmer,5889,4046.5,7,7
+16,Benjamin Owusu,M,58,Upper East,Builse,SHS,15,0559238200,benjaminowusu@gmail.com,Married,Yes,No,8,Farmer,3023,3760.17,5,5
+17,Maame Abena Baidoo,F,46,Eastern,Birim South,University,5,0284374383,maabena@yahoo.com,Single,No,No,1,Farmer,8001,3935.42,5,10
+18,Joshua Mensah,M,35,Eastern,Birim South,JHS,2,0278347479,joshuamesah@gmail.com,Married,No,Yes,3,Farmer,3899,3385.42,10,5
+19,Caroline Agyei,F,31,Brong Ahafo,Sene,JHS,4,0246565654,carolineagyei@gmail.com,Single,Yes,Yes,1,Trader,5000,2627.27,7,7
+20,Linda Amoako ,F,45,Central,Gomoa,SHS,12,0245665670,lindaamoako@gmail.com,Married,No,Yes,4,Farmer,4068,3651.08,5,7
