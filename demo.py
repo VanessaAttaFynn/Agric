@@ -61,7 +61,7 @@ if st.session_state.load_data:
     st.session_state.load_data = True
 
 
-st.sidebar.image('../Images/logo.png', width=300)
+st.sidebar.image('Images/logo.png', width=300)
 st.sidebar.markdown('##')
 
 
@@ -94,7 +94,7 @@ if choose == "About":
 
     col1, col2= st.columns([2, 2])
     with col1:
-        image = Image.open('../Images/about.png')
+        image = Image.open('Images/about.png')
         new_image = image.resize((600, 350))
         st.image(new_image)
        
@@ -119,7 +119,7 @@ if choose == "About":
   
     col3, col4, col5 = st.columns([0.5,2,0.5])
     with col4:
-        st.image('../Images/lucent.png')
+        st.image('Images/lucent.png')
 
         st.markdown("##")
         st.markdown("##")
